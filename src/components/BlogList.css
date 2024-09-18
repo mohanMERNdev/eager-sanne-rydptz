@@ -1,0 +1,7 @@
+.blog_List {
+  display: flex;
+  flex-direction: column;
+  width: 20vw;
+  height: 20vh;
+}
+
